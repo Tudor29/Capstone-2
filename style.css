@@ -1,0 +1,13 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.header {
+  background-color: rgba(37, 103, 159, 255);
+}
+.main-header {
+  font-family: "sacramento", cursive;
+  font-size: 6rem;
+}
+.btn {
+  text-decoration: none;
+}
